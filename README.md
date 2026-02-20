@@ -8,7 +8,12 @@ The primary goal was to identify intervention strategies to grow beer sales and 
 - Optimizing promotion target segments to ensure efficient, positive-ROI campaigns.
 
 ### Data Sources & Preparation
-Six complementary datasets were integrated, including detailed item-level transactions, customer trip records, demographic profiles, and in-store display and pricing audits. Extensive preprocessing—data merging, cleaning, categorical encoding, and dimensionality reduction—enabled a unified, analytically ready database spanning over 11,000 beer transactions made by 332 customers.
+Six complementary datasets were integrated, including detailed item-level transactions, customer trip records, demographic profiles, and in-store display and pricing audits. Extensive preprocessing—data merging, cleaning, categorical encoding, and dimensionality reduction—enabled a unified, analytically ready database spanning over 107,000 beer transactions made by 4607 customers.
+
+![PowerBI_Overview](https://github.com/user-attachments/assets/849730b9-9034-48ec-a726-54a97cfa7009)
+
+![PowerBI_Promo](https://github.com/user-attachments/assets/f4098c62-b397-4687-b3e0-5477959c4359)
+
 
 ### Modeling and Analysis Approach
 - **Purchase Incidence Model:** Logistic regression identified key drivers (loyalty, basket size, season, day-of-week, promotion, and demographics) for beer purchase on each trip.
